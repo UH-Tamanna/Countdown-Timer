@@ -1,2 +1,2 @@
-# Countdown-Timer
-A simple countdown timer application built in Python.
+# Time-related
+STopwatch, Countdown_timer application built in Python.
